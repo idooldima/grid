@@ -1,0 +1,43 @@
+
+.img_section{
+padding: 50px 0px;
+}
+
+.section_container{
+    align-items: center;
+    padding: 100px 0px;
+    background-color: var(--background-color);
+}
+
+.info_section{
+    font-size: 48px;
+    line-height: 79px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+
+.section_padding{
+    padding-bottom: 40px;
+}
+
+.text_section{
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn button{
+    padding: 25px 41px;
+    background-color: var(--background-color-content);
+    border: none;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+
+.btn button:hover{
+    padding: 27px 43px;
+}

@@ -1,0 +1,10 @@
+@import './header.css';
+@import './section.css';
+@import url('https://fonts.googleapis.com/css2?family=Revalia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Revalia&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Revalia&family=Roboto:wght@500&display=swap');
+
+:root{
+    --background-color-content: #34547A;
+    --background-color: #EEEFF1 ;
+}
